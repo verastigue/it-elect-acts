@@ -1,0 +1,53 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\carly\\OneDrive\\Desktop\\it-elect-acts\\Calculator\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CBBD4E2B-5F9D-4D96-90DB-2A9E21718A2B}|Act_3\\Act_3.vbproj|c:\\users\\carly\\onedrive\\desktop\\it-elect-acts\\calculator\\act_3\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{CBBD4E2B-5F9D-4D96-90DB-2A9E21718A2B}|Act_3\\Act_3.vbproj|solutionrelative:act_3\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CBBD4E2B-5F9D-4D96-90DB-2A9E21718A2B}|Act_3\\Act_3.vbproj|c:\\users\\carly\\onedrive\\desktop\\it-elect-acts\\calculator\\act_3\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{CBBD4E2B-5F9D-4D96-90DB-2A9E21718A2B}|Act_3\\Act_3.vbproj|solutionrelative:act_3\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.vb",
+              "DocumentMoniker": "C:\\Users\\carly\\OneDrive\\Desktop\\it-elect-acts\\Calculator\\Act_3\\Form1.vb",
+              "RelativeDocumentMoniker": "Act_3\\Form1.vb",
+              "ToolTip": "C:\\Users\\carly\\OneDrive\\Desktop\\it-elect-acts\\Calculator\\Act_3\\Form1.vb",
+              "RelativeToolTip": "Act_3\\Form1.vb",
+              "ViewState": "AQIAAAEAAAAAAAAAAAAQwAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-03-12T02:04:05.191Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.vb [Design]",
+              "DocumentMoniker": "C:\\Users\\carly\\OneDrive\\Desktop\\it-elect-acts\\Calculator\\Act_3\\Form1.vb",
+              "RelativeDocumentMoniker": "Act_3\\Form1.vb",
+              "ToolTip": "C:\\Users\\carly\\OneDrive\\Desktop\\it-elect-acts\\Calculator\\Act_3\\Form1.vb [Design]",
+              "RelativeToolTip": "Act_3\\Form1.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-03-12T01:52:25.563Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
