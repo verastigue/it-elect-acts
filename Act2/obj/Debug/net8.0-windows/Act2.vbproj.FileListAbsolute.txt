@@ -1,0 +1,16 @@
+C:\Users\Uncle\Desktop\IT_ELECT_ACTS\Act2\bin\Debug\net8.0-windows\Act2.exe
+C:\Users\Uncle\Desktop\IT_ELECT_ACTS\Act2\bin\Debug\net8.0-windows\Act2.deps.json
+C:\Users\Uncle\Desktop\IT_ELECT_ACTS\Act2\bin\Debug\net8.0-windows\Act2.runtimeconfig.json
+C:\Users\Uncle\Desktop\IT_ELECT_ACTS\Act2\bin\Debug\net8.0-windows\Act2.dll
+C:\Users\Uncle\Desktop\IT_ELECT_ACTS\Act2\bin\Debug\net8.0-windows\Act2.pdb
+C:\Users\Uncle\Desktop\IT_ELECT_ACTS\Act2\obj\Debug\net8.0-windows\Act2.vbproj.GenerateResource.cache
+C:\Users\Uncle\Desktop\IT_ELECT_ACTS\Act2\obj\Debug\net8.0-windows\Act2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Uncle\Desktop\IT_ELECT_ACTS\Act2\obj\Debug\net8.0-windows\Act2.AssemblyInfoInputs.cache
+C:\Users\Uncle\Desktop\IT_ELECT_ACTS\Act2\obj\Debug\net8.0-windows\Act2.AssemblyInfo.vb
+C:\Users\Uncle\Desktop\IT_ELECT_ACTS\Act2\obj\Debug\net8.0-windows\Act2.vbproj.CoreCompileInputs.cache
+C:\Users\Uncle\Desktop\IT_ELECT_ACTS\Act2\obj\Debug\net8.0-windows\Act2.dll
+C:\Users\Uncle\Desktop\IT_ELECT_ACTS\Act2\obj\Debug\net8.0-windows\refint\Act2.dll
+C:\Users\Uncle\Desktop\IT_ELECT_ACTS\Act2\obj\Debug\net8.0-windows\Act2.pdb
+C:\Users\Uncle\Desktop\IT_ELECT_ACTS\Act2\obj\Debug\net8.0-windows\Act2.genruntimeconfig.cache
+C:\Users\Uncle\Desktop\IT_ELECT_ACTS\Act2\obj\Debug\net8.0-windows\ref\Act2.dll
+C:\Users\Uncle\Desktop\IT_ELECT_ACTS\Act2\obj\Debug\net8.0-windows\Act2.Form1.resources
