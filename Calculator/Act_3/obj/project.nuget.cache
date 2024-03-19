@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "xiTUemuUasQmKJ9NP9wrgEPhby8dyQJAkR2+7DH1/n1fa0rl10+dnkeAdRVTFVApOuJXohxhhm5tss4Fo9htGA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\carly\\OneDrive\\Desktop\\it-elect-acts\\Calculator\\Act_3\\Act_3.vbproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\carly\\.nuget\\packages\\guna.ui2.winforms\\2.0.4.6\\guna.ui2.winforms.2.0.4.6.nupkg.sha512",
+    "C:\\Users\\carly\\.nuget\\packages\\system.codedom\\7.0.0\\system.codedom.7.0.0.nupkg.sha512",
+    "C:\\Users\\carly\\.nuget\\packages\\system.management\\7.0.0\\system.management.7.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
