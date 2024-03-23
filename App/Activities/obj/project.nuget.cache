@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "zhkdi9geYhejxUKJ6yjzv/Ff1OUKxCv+fbM8QOzW+LjEF1+wYzsGupxzDU6KZUet8lcSTwqoFagpnScbtw6srw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\carly\\OneDrive\\Desktop\\Arce\\itelect\\App\\Activities\\Activities.vbproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\carly\\.nuget\\packages\\guna.ui2.winforms\\2.0.4.6\\guna.ui2.winforms.2.0.4.6.nupkg.sha512",
+    "C:\\Users\\carly\\.nuget\\packages\\system.codedom\\7.0.0\\system.codedom.7.0.0.nupkg.sha512",
+    "C:\\Users\\carly\\.nuget\\packages\\system.management\\7.0.0\\system.management.7.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
